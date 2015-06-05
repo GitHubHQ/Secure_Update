@@ -1,0 +1,4 @@
+So the program works. Most of the time, anyway.
+If it doesn't run fully, delete results.txt and try again.
+first few entries are corrupted because the interrupt is sent before 
+anything is even written.

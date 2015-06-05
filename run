@@ -1,0 +1,6 @@
+#!/bin/bash
+./compstuff
+echo Updating System
+./up
+echo Checking Boot
+./cb

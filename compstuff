@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gcc update.c -o up
+gcc chkboot.c -o cb
